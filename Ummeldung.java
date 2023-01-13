@@ -4,14 +4,7 @@ public class Ummeldung
     Buergerin B;
     Adresse A;
     int P;
-    /*  public Ummeldung(Stadt s, Buergerin b, Adresse a, int p)
-    {
-        this.S = s;
-        this.B = b;
-        this.A = a;
-        this.P = p;
-    }
-    */
+
 
     public static void Ausgabe(Stadt s)
     {
